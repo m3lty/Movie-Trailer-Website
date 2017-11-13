@@ -29,7 +29,7 @@ movies = [movie1, movie2, movie3 ...]
 ## Authors
 
 * **Adam Hoffman** -  [M3lty](https://github.com/M3lty)
-Source code for fresh_tomatoes.py provided by [Udacity](https://github.com/udacity/ud036_StarterCode)
+* Source code for fresh_tomatoes.py provided by [Udacity](https://github.com/udacity/ud036_StarterCode)
 
 
 ## Acknowledgments
