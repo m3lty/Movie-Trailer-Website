@@ -9,6 +9,22 @@ All required files are included, as well as several Movie objects within enterta
 
 ### Installing
 Running the entertainment_center.py script will provide an example of the HTML generated. The code has been pre-populated with a few of our favorite films.
+This can be accomplished using several methods.
+
+Using the command prompt in windows, navigate to the directory where the files are located. This can be done by using the 'cd' command.
+For example, if the folder is located on the C: drive, in the Users folder you would type the following command:
+
+```
+cd c:\Users
+
+```
+Assuming you have Python installed you will then type the following command:
+
+```
+py entertainment_center.py
+
+```
+(If you do not have Python, you can get it [here](https://www.python.org/downloads/))
 
 In order to add a list of your own movies, the media.Movie() method should be called. This method requires four attributes.
 Here is an example of the minimum code needed to generate the object:

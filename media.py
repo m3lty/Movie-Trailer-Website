@@ -5,10 +5,11 @@ class Movie():
     Attributes:
         movie_title(str): The title of the movie.
         movie_storyline(str): A short synopsis of the movie.
-        poster_image_url(str): A link to an image of the movie's poster or boxart
-        trailer_youtube_url(str): A link to a Youtube trailer for the movie.
+        poster_image_url(str): A link to an image of the movie's poster or
+        boxart trailer_youtube_url(str): A link to a Youtube trailer for the
+        movie.
         """
-    #Initializes movie objects.
+    # Initializes movie objects.
     def __init__(self, movie_title, movie_storyline, poster_image,
                  trailer_youtube):
         self.title = movie_title

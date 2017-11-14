@@ -1,7 +1,7 @@
 import fresh_tomatoes
 import media
 
-#Defining Movie objects.
+# Defining Movie objects.
 trainspotting = media.Movie("Akira",
                             """A secret military project endangers Neo-Tokyo
                              when it turns a biker gang member into a rampaging
